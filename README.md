@@ -18,6 +18,10 @@ npm install -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+5.- Clone file __.env.template__ and rename the file by __.env__
+
+6.- Get environment variables
+
 5.- Load Moock data
 ```
 METHOD: GET
